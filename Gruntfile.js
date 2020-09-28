@@ -225,6 +225,8 @@ module.exports = function(grunt) {
         bucket: '<%= config.s3.bucket %>',
         region: '<%= config.s3.region %>',
         overwrite: '<%= config.s3.overwrite %>',
+        cache: false,
+        cacheTTL: 0
       },
       build: {
         cwd: path.images_src,

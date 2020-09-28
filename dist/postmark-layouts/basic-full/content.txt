@@ -1,11 +1,11 @@
-[Product Name] ( https://example.com )
+{{#preheader}}{{.}}{{/preheader}}
+
+Lazarcapper.com ( http://www.lazarcapper.com )
 
 {{{ @content }}}
 
-© 2019 [Product Name]. All rights reserved.
+© 2019 Lazarcapper.com. All rights reserved.
 
-[Company Name, LLC]
+Lazar Technologies, Inc
 
-1234 Street Rd.
-
-Suite 1234
+39 Evergreen St
